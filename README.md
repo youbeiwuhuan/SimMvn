@@ -1,2 +1,2 @@
 # SimMvn
-使用git作为maven仓库,进行简单的deploy和download  jar包
+使用github作为maven仓库,进行简单的deploy和download  jar包
